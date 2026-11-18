@@ -1,2 +1,2 @@
 # random-message-gd
-random 
+I'm out of ideas, summer's coming

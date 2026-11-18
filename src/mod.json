@@ -1,0 +1,15 @@
+{
+	"geode": "5.11.2",
+	"gd": {2.2209}
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "sharan.random-messages",
+	"name": "random messages",
+	"version": "v1.0.0",
+	"developer": "sharan",
+	"description": "displays random messages "
+}
+
