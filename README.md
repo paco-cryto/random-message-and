@@ -1,2 +1,2 @@
-# random-message-and
+# random-message-gd
 random 
